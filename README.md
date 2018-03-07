@@ -1,2 +1,2 @@
 # Turkey-IP-Blocks
-Lists all Turkey IP blocks based on RIPE delegation list
+Lists all IP blocks delegated to Turkey by RIPE
